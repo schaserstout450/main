@@ -1,0 +1,2491 @@
+fileFormatVersion: 2
+guid: 42d3347aff2dc854289cbc8ee2494650
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: corner:cornerBuilding
+    100004: corner:cornerBuilding2
+    100006: corner:pCube2
+    100008: corner:pCube3
+    100010: corner:window1
+    100012: corner:window14
+    100014: corner:window15
+    100016: corner:window16
+    100018: corner:window17
+    100020: corner:window18
+    100022: corner:window19
+    100024: corner:window20
+    100026: corner:window21
+    100028: corner:window22
+    100030: corner:window23
+    100032: corner:window24
+    100034: cornerBuilding
+    100036: cornerBuilding 1
+    100038: cornerBuilding 2
+    100040: cornerBuilding1
+    100042: cornerBuilding1 1
+    100044: cornerBuilding1 2
+    100046: cornerBuilding2
+    100048: cornerBuilding3
+    100050: cornerBuilding3 1
+    100052: cornerBuilding3 2
+    100054: cornerBuilding4
+    100056: cornerBuilding5
+    100058: cornerBuilding5 1
+    100060: cornerBuilding5 2
+    100062: cornerBuilding6
+    100064: cornerBuilding6 1
+    100066: cornerBuilding6 2
+    100068: cornerBuilding7
+    100070: cornerBuilding7 1
+    100072: group4
+    100074: group5
+    100076: group6
+    100078: pCube10
+    100080: pCube10 1
+    100082: pCube10 2
+    100084: pCube11
+    100086: pCube12
+    100088: pCube12 1
+    100090: pCube12 2
+    100092: pCube13
+    100094: pCube14
+    100096: pCube14 1
+    100098: pCube14 2
+    100100: pCube15
+    100102: pCube16
+    100104: pCube17
+    100106: pCube17 1
+    100108: pCube17 2
+    100110: pCube18
+    100112: pCube18 1
+    100114: pCube18 2
+    100116: pCube19
+    100118: pCube19 1
+    100120: pCube19 2
+    100122: pCube2
+    100124: pCube2 1
+    100126: pCube2 2
+    100128: pCube20
+    100130: pCube20 1
+    100132: pCube20 2
+    100134: pCube21
+    100136: pCube21 1
+    100138: pCube21 2
+    100140: pCube22
+    100142: pCube22 1
+    100144: pCube22 2
+    100146: pCube23
+    100148: pCube23 1
+    100150: pCube23 2
+    100152: pCube24
+    100154: pCube24 1
+    100156: pCube24 2
+    100158: pCube25
+    100160: pCube25 1
+    100162: pCube25 2
+    100164: pCube26
+    100166: pCube26 1
+    100168: pCube26 2
+    100170: pCube27
+    100172: pCube27 1
+    100174: pCube3
+    100176: pCube4
+    100178: pCube4 1
+    100180: pCube4 2
+    100182: pCube5
+    100184: pCube6
+    100186: pCube6 1
+    100188: pCube6 2
+    100190: pCube7
+    100192: pCube8
+    100194: pCube8 1
+    100196: pCube8 2
+    100198: pCube9
+    100200: soloRoof
+    100202: soloRoof1
+    100204: soloRoof2
+    100206: soloRoof3
+    100208: soloRoof4
+    100210: window1
+    100212: window1 1
+    100214: window1 2
+    100216: window100
+    100218: window100 1
+    100220: window100 2
+    100222: window101
+    100224: window101 1
+    100226: window101 2
+    100228: window102
+    100230: window102 1
+    100232: window102 2
+    100234: window103
+    100236: window103 1
+    100238: window103 2
+    100240: window104
+    100242: window104 1
+    100244: window104 2
+    100246: window105
+    100248: window105 1
+    100250: window105 2
+    100252: window106
+    100254: window106 1
+    100256: window106 2
+    100258: window107
+    100260: window107 1
+    100262: window107 2
+    100264: window108
+    100266: window108 1
+    100268: window108 2
+    100270: window109
+    100272: window109 1
+    100274: window109 2
+    100276: window110
+    100278: window110 1
+    100280: window110 2
+    100282: window111
+    100284: window111 1
+    100286: window111 2
+    100288: window112
+    100290: window112 1
+    100292: window112 2
+    100294: window113
+    100296: window113 1
+    100298: window113 2
+    100300: window114
+    100302: window114 1
+    100304: window114 2
+    100306: window115
+    100308: window115 1
+    100310: window115 2
+    100312: window116
+    100314: window116 1
+    100316: window116 2
+    100318: window117
+    100320: window117 1
+    100322: window117 2
+    100324: window118
+    100326: window118 1
+    100328: window118 2
+    100330: window119
+    100332: window119 1
+    100334: window119 2
+    100336: window120
+    100338: window120 1
+    100340: window120 2
+    100342: window121
+    100344: window121 1
+    100346: window121 2
+    100348: window122
+    100350: window122 1
+    100352: window122 2
+    100354: window123
+    100356: window123 1
+    100358: window123 2
+    100360: window124
+    100362: window124 1
+    100364: window124 2
+    100366: window125
+    100368: window125 1
+    100370: window125 2
+    100372: window126
+    100374: window126 1
+    100376: window126 2
+    100378: window127
+    100380: window127 1
+    100382: window127 2
+    100384: window128
+    100386: window128 1
+    100388: window128 2
+    100390: window129
+    100392: window129 1
+    100394: window129 2
+    100396: window130
+    100398: window130 1
+    100400: window130 2
+    100402: window131
+    100404: window131 1
+    100406: window131 2
+    100408: window132
+    100410: window132 1
+    100412: window132 2
+    100414: window133
+    100416: window133 1
+    100418: window134
+    100420: window134 1
+    100422: window135
+    100424: window135 1
+    100426: window136
+    100428: window136 1
+    100430: window137
+    100432: window137 1
+    100434: window138
+    100436: window138 1
+    100438: window139
+    100440: window139 1
+    100442: window14
+    100444: window14 1
+    100446: window14 2
+    100448: window140
+    100450: window140 1
+    100452: window141
+    100454: window141 1
+    100456: window142
+    100458: window142 1
+    100460: window143
+    100462: window143 1
+    100464: window144
+    100466: window144 1
+    100468: window15
+    100470: window15 1
+    100472: window15 2
+    100474: window16
+    100476: window16 1
+    100478: window16 2
+    100480: window17
+    100482: window17 1
+    100484: window17 2
+    100486: window18
+    100488: window18 1
+    100490: window18 2
+    100492: window19
+    100494: window19 1
+    100496: window19 2
+    100498: window20
+    100500: window20 1
+    100502: window20 2
+    100504: window21
+    100506: window21 1
+    100508: window21 2
+    100510: window22
+    100512: window22 1
+    100514: window22 2
+    100516: window23
+    100518: window23 1
+    100520: window23 2
+    100522: window24
+    100524: window24 1
+    100526: window24 2
+    100528: window25
+    100530: window25 1
+    100532: window25 2
+    100534: window26
+    100536: window26 1
+    100538: window26 2
+    100540: window27
+    100542: window27 1
+    100544: window27 2
+    100546: window28
+    100548: window28 1
+    100550: window28 2
+    100552: window29
+    100554: window29 1
+    100556: window29 2
+    100558: window30
+    100560: window30 1
+    100562: window30 2
+    100564: window31
+    100566: window31 1
+    100568: window31 2
+    100570: window32
+    100572: window32 1
+    100574: window32 2
+    100576: window33
+    100578: window33 1
+    100580: window33 2
+    100582: window34
+    100584: window34 1
+    100586: window34 2
+    100588: window35
+    100590: window35 1
+    100592: window35 2
+    100594: window36
+    100596: window36 1
+    100598: window36 2
+    100600: window37
+    100602: window37 1
+    100604: window37 2
+    100606: window38
+    100608: window38 1
+    100610: window38 2
+    100612: window39
+    100614: window39 1
+    100616: window39 2
+    100618: window40
+    100620: window40 1
+    100622: window40 2
+    100624: window41
+    100626: window41 1
+    100628: window41 2
+    100630: window42
+    100632: window42 1
+    100634: window42 2
+    100636: window43
+    100638: window43 1
+    100640: window43 2
+    100642: window44
+    100644: window44 1
+    100646: window44 2
+    100648: window45
+    100650: window45 1
+    100652: window45 2
+    100654: window46
+    100656: window46 1
+    100658: window46 2
+    100660: window47
+    100662: window47 1
+    100664: window47 2
+    100666: window48
+    100668: window48 1
+    100670: window48 2
+    100672: window49
+    100674: window49 1
+    100676: window49 2
+    100678: window50
+    100680: window50 1
+    100682: window50 2
+    100684: window51
+    100686: window51 1
+    100688: window51 2
+    100690: window52
+    100692: window52 1
+    100694: window52 2
+    100696: window53
+    100698: window53 1
+    100700: window53 2
+    100702: window54
+    100704: window54 1
+    100706: window54 2
+    100708: window55
+    100710: window55 1
+    100712: window55 2
+    100714: window56
+    100716: window56 1
+    100718: window56 2
+    100720: window57
+    100722: window57 1
+    100724: window57 2
+    100726: window58
+    100728: window58 1
+    100730: window58 2
+    100732: window59
+    100734: window59 1
+    100736: window59 2
+    100738: window60
+    100740: window60 1
+    100742: window60 2
+    100744: window61
+    100746: window61 1
+    100748: window61 2
+    100750: window62
+    100752: window62 1
+    100754: window62 2
+    100756: window63
+    100758: window63 1
+    100760: window63 2
+    100762: window64
+    100764: window64 1
+    100766: window64 2
+    100768: window65
+    100770: window65 1
+    100772: window65 2
+    100774: window66
+    100776: window66 1
+    100778: window66 2
+    100780: window67
+    100782: window67 1
+    100784: window67 2
+    100786: window68
+    100788: window68 1
+    100790: window68 2
+    100792: window69
+    100794: window69 1
+    100796: window69 2
+    100798: window70
+    100800: window70 1
+    100802: window70 2
+    100804: window71
+    100806: window71 1
+    100808: window71 2
+    100810: window72
+    100812: window72 1
+    100814: window72 2
+    100816: window73
+    100818: window73 1
+    100820: window73 2
+    100822: window74
+    100824: window74 1
+    100826: window74 2
+    100828: window75
+    100830: window75 1
+    100832: window75 2
+    100834: window76
+    100836: window76 1
+    100838: window76 2
+    100840: window77
+    100842: window77 1
+    100844: window77 2
+    100846: window78
+    100848: window78 1
+    100850: window78 2
+    100852: window79
+    100854: window79 1
+    100856: window79 2
+    100858: window80
+    100860: window80 1
+    100862: window80 2
+    100864: window81
+    100866: window81 1
+    100868: window81 2
+    100870: window82
+    100872: window82 1
+    100874: window82 2
+    100876: window83
+    100878: window83 1
+    100880: window83 2
+    100882: window84
+    100884: window84 1
+    100886: window84 2
+    100888: window85
+    100890: window85 1
+    100892: window85 2
+    100894: window86
+    100896: window86 1
+    100898: window86 2
+    100900: window87
+    100902: window87 1
+    100904: window87 2
+    100906: window88
+    100908: window88 1
+    100910: window88 2
+    100912: window89
+    100914: window89 1
+    100916: window89 2
+    100918: window90
+    100920: window90 1
+    100922: window90 2
+    100924: window91
+    100926: window91 1
+    100928: window91 2
+    100930: window92
+    100932: window92 1
+    100934: window92 2
+    100936: window93
+    100938: window93 1
+    100940: window93 2
+    100942: window94
+    100944: window94 1
+    100946: window94 2
+    100948: window95
+    100950: window95 1
+    100952: window95 2
+    100954: window96
+    100956: window96 1
+    100958: window96 2
+    100960: window97
+    100962: window97 1
+    100964: window97 2
+    100966: window98
+    100968: window98 1
+    100970: window98 2
+    100972: window99
+    100974: window99 1
+    100976: window99 2
+    400000: //RootNode
+    400002: corner:cornerBuilding
+    400004: corner:cornerBuilding2
+    400006: corner:pCube2
+    400008: corner:pCube3
+    400010: corner:window1
+    400012: corner:window14
+    400014: corner:window15
+    400016: corner:window16
+    400018: corner:window17
+    400020: corner:window18
+    400022: corner:window19
+    400024: corner:window20
+    400026: corner:window21
+    400028: corner:window22
+    400030: corner:window23
+    400032: corner:window24
+    400034: cornerBuilding
+    400036: cornerBuilding 1
+    400038: cornerBuilding 2
+    400040: cornerBuilding1
+    400042: cornerBuilding1 1
+    400044: cornerBuilding1 2
+    400046: cornerBuilding2
+    400048: cornerBuilding3
+    400050: cornerBuilding3 1
+    400052: cornerBuilding3 2
+    400054: cornerBuilding4
+    400056: cornerBuilding5
+    400058: cornerBuilding5 1
+    400060: cornerBuilding5 2
+    400062: cornerBuilding6
+    400064: cornerBuilding6 1
+    400066: cornerBuilding6 2
+    400068: cornerBuilding7
+    400070: cornerBuilding7 1
+    400072: group4
+    400074: group5
+    400076: group6
+    400078: pCube10
+    400080: pCube10 1
+    400082: pCube10 2
+    400084: pCube11
+    400086: pCube12
+    400088: pCube12 1
+    400090: pCube12 2
+    400092: pCube13
+    400094: pCube14
+    400096: pCube14 1
+    400098: pCube14 2
+    400100: pCube15
+    400102: pCube16
+    400104: pCube17
+    400106: pCube17 1
+    400108: pCube17 2
+    400110: pCube18
+    400112: pCube18 1
+    400114: pCube18 2
+    400116: pCube19
+    400118: pCube19 1
+    400120: pCube19 2
+    400122: pCube2
+    400124: pCube2 1
+    400126: pCube2 2
+    400128: pCube20
+    400130: pCube20 1
+    400132: pCube20 2
+    400134: pCube21
+    400136: pCube21 1
+    400138: pCube21 2
+    400140: pCube22
+    400142: pCube22 1
+    400144: pCube22 2
+    400146: pCube23
+    400148: pCube23 1
+    400150: pCube23 2
+    400152: pCube24
+    400154: pCube24 1
+    400156: pCube24 2
+    400158: pCube25
+    400160: pCube25 1
+    400162: pCube25 2
+    400164: pCube26
+    400166: pCube26 1
+    400168: pCube26 2
+    400170: pCube27
+    400172: pCube27 1
+    400174: pCube3
+    400176: pCube4
+    400178: pCube4 1
+    400180: pCube4 2
+    400182: pCube5
+    400184: pCube6
+    400186: pCube6 1
+    400188: pCube6 2
+    400190: pCube7
+    400192: pCube8
+    400194: pCube8 1
+    400196: pCube8 2
+    400198: pCube9
+    400200: soloRoof
+    400202: soloRoof1
+    400204: soloRoof2
+    400206: soloRoof3
+    400208: soloRoof4
+    400210: window1
+    400212: window1 1
+    400214: window1 2
+    400216: window100
+    400218: window100 1
+    400220: window100 2
+    400222: window101
+    400224: window101 1
+    400226: window101 2
+    400228: window102
+    400230: window102 1
+    400232: window102 2
+    400234: window103
+    400236: window103 1
+    400238: window103 2
+    400240: window104
+    400242: window104 1
+    400244: window104 2
+    400246: window105
+    400248: window105 1
+    400250: window105 2
+    400252: window106
+    400254: window106 1
+    400256: window106 2
+    400258: window107
+    400260: window107 1
+    400262: window107 2
+    400264: window108
+    400266: window108 1
+    400268: window108 2
+    400270: window109
+    400272: window109 1
+    400274: window109 2
+    400276: window110
+    400278: window110 1
+    400280: window110 2
+    400282: window111
+    400284: window111 1
+    400286: window111 2
+    400288: window112
+    400290: window112 1
+    400292: window112 2
+    400294: window113
+    400296: window113 1
+    400298: window113 2
+    400300: window114
+    400302: window114 1
+    400304: window114 2
+    400306: window115
+    400308: window115 1
+    400310: window115 2
+    400312: window116
+    400314: window116 1
+    400316: window116 2
+    400318: window117
+    400320: window117 1
+    400322: window117 2
+    400324: window118
+    400326: window118 1
+    400328: window118 2
+    400330: window119
+    400332: window119 1
+    400334: window119 2
+    400336: window120
+    400338: window120 1
+    400340: window120 2
+    400342: window121
+    400344: window121 1
+    400346: window121 2
+    400348: window122
+    400350: window122 1
+    400352: window122 2
+    400354: window123
+    400356: window123 1
+    400358: window123 2
+    400360: window124
+    400362: window124 1
+    400364: window124 2
+    400366: window125
+    400368: window125 1
+    400370: window125 2
+    400372: window126
+    400374: window126 1
+    400376: window126 2
+    400378: window127
+    400380: window127 1
+    400382: window127 2
+    400384: window128
+    400386: window128 1
+    400388: window128 2
+    400390: window129
+    400392: window129 1
+    400394: window129 2
+    400396: window130
+    400398: window130 1
+    400400: window130 2
+    400402: window131
+    400404: window131 1
+    400406: window131 2
+    400408: window132
+    400410: window132 1
+    400412: window132 2
+    400414: window133
+    400416: window133 1
+    400418: window134
+    400420: window134 1
+    400422: window135
+    400424: window135 1
+    400426: window136
+    400428: window136 1
+    400430: window137
+    400432: window137 1
+    400434: window138
+    400436: window138 1
+    400438: window139
+    400440: window139 1
+    400442: window14
+    400444: window14 1
+    400446: window14 2
+    400448: window140
+    400450: window140 1
+    400452: window141
+    400454: window141 1
+    400456: window142
+    400458: window142 1
+    400460: window143
+    400462: window143 1
+    400464: window144
+    400466: window144 1
+    400468: window15
+    400470: window15 1
+    400472: window15 2
+    400474: window16
+    400476: window16 1
+    400478: window16 2
+    400480: window17
+    400482: window17 1
+    400484: window17 2
+    400486: window18
+    400488: window18 1
+    400490: window18 2
+    400492: window19
+    400494: window19 1
+    400496: window19 2
+    400498: window20
+    400500: window20 1
+    400502: window20 2
+    400504: window21
+    400506: window21 1
+    400508: window21 2
+    400510: window22
+    400512: window22 1
+    400514: window22 2
+    400516: window23
+    400518: window23 1
+    400520: window23 2
+    400522: window24
+    400524: window24 1
+    400526: window24 2
+    400528: window25
+    400530: window25 1
+    400532: window25 2
+    400534: window26
+    400536: window26 1
+    400538: window26 2
+    400540: window27
+    400542: window27 1
+    400544: window27 2
+    400546: window28
+    400548: window28 1
+    400550: window28 2
+    400552: window29
+    400554: window29 1
+    400556: window29 2
+    400558: window30
+    400560: window30 1
+    400562: window30 2
+    400564: window31
+    400566: window31 1
+    400568: window31 2
+    400570: window32
+    400572: window32 1
+    400574: window32 2
+    400576: window33
+    400578: window33 1
+    400580: window33 2
+    400582: window34
+    400584: window34 1
+    400586: window34 2
+    400588: window35
+    400590: window35 1
+    400592: window35 2
+    400594: window36
+    400596: window36 1
+    400598: window36 2
+    400600: window37
+    400602: window37 1
+    400604: window37 2
+    400606: window38
+    400608: window38 1
+    400610: window38 2
+    400612: window39
+    400614: window39 1
+    400616: window39 2
+    400618: window40
+    400620: window40 1
+    400622: window40 2
+    400624: window41
+    400626: window41 1
+    400628: window41 2
+    400630: window42
+    400632: window42 1
+    400634: window42 2
+    400636: window43
+    400638: window43 1
+    400640: window43 2
+    400642: window44
+    400644: window44 1
+    400646: window44 2
+    400648: window45
+    400650: window45 1
+    400652: window45 2
+    400654: window46
+    400656: window46 1
+    400658: window46 2
+    400660: window47
+    400662: window47 1
+    400664: window47 2
+    400666: window48
+    400668: window48 1
+    400670: window48 2
+    400672: window49
+    400674: window49 1
+    400676: window49 2
+    400678: window50
+    400680: window50 1
+    400682: window50 2
+    400684: window51
+    400686: window51 1
+    400688: window51 2
+    400690: window52
+    400692: window52 1
+    400694: window52 2
+    400696: window53
+    400698: window53 1
+    400700: window53 2
+    400702: window54
+    400704: window54 1
+    400706: window54 2
+    400708: window55
+    400710: window55 1
+    400712: window55 2
+    400714: window56
+    400716: window56 1
+    400718: window56 2
+    400720: window57
+    400722: window57 1
+    400724: window57 2
+    400726: window58
+    400728: window58 1
+    400730: window58 2
+    400732: window59
+    400734: window59 1
+    400736: window59 2
+    400738: window60
+    400740: window60 1
+    400742: window60 2
+    400744: window61
+    400746: window61 1
+    400748: window61 2
+    400750: window62
+    400752: window62 1
+    400754: window62 2
+    400756: window63
+    400758: window63 1
+    400760: window63 2
+    400762: window64
+    400764: window64 1
+    400766: window64 2
+    400768: window65
+    400770: window65 1
+    400772: window65 2
+    400774: window66
+    400776: window66 1
+    400778: window66 2
+    400780: window67
+    400782: window67 1
+    400784: window67 2
+    400786: window68
+    400788: window68 1
+    400790: window68 2
+    400792: window69
+    400794: window69 1
+    400796: window69 2
+    400798: window70
+    400800: window70 1
+    400802: window70 2
+    400804: window71
+    400806: window71 1
+    400808: window71 2
+    400810: window72
+    400812: window72 1
+    400814: window72 2
+    400816: window73
+    400818: window73 1
+    400820: window73 2
+    400822: window74
+    400824: window74 1
+    400826: window74 2
+    400828: window75
+    400830: window75 1
+    400832: window75 2
+    400834: window76
+    400836: window76 1
+    400838: window76 2
+    400840: window77
+    400842: window77 1
+    400844: window77 2
+    400846: window78
+    400848: window78 1
+    400850: window78 2
+    400852: window79
+    400854: window79 1
+    400856: window79 2
+    400858: window80
+    400860: window80 1
+    400862: window80 2
+    400864: window81
+    400866: window81 1
+    400868: window81 2
+    400870: window82
+    400872: window82 1
+    400874: window82 2
+    400876: window83
+    400878: window83 1
+    400880: window83 2
+    400882: window84
+    400884: window84 1
+    400886: window84 2
+    400888: window85
+    400890: window85 1
+    400892: window85 2
+    400894: window86
+    400896: window86 1
+    400898: window86 2
+    400900: window87
+    400902: window87 1
+    400904: window87 2
+    400906: window88
+    400908: window88 1
+    400910: window88 2
+    400912: window89
+    400914: window89 1
+    400916: window89 2
+    400918: window90
+    400920: window90 1
+    400922: window90 2
+    400924: window91
+    400926: window91 1
+    400928: window91 2
+    400930: window92
+    400932: window92 1
+    400934: window92 2
+    400936: window93
+    400938: window93 1
+    400940: window93 2
+    400942: window94
+    400944: window94 1
+    400946: window94 2
+    400948: window95
+    400950: window95 1
+    400952: window95 2
+    400954: window96
+    400956: window96 1
+    400958: window96 2
+    400960: window97
+    400962: window97 1
+    400964: window97 2
+    400966: window98
+    400968: window98 1
+    400970: window98 2
+    400972: window99
+    400974: window99 1
+    400976: window99 2
+    2300000: corner:cornerBuilding
+    2300002: corner:cornerBuilding2
+    2300004: corner:pCube2
+    2300006: corner:pCube3
+    2300008: corner:window1
+    2300010: corner:window14
+    2300012: corner:window15
+    2300014: corner:window16
+    2300016: corner:window17
+    2300018: corner:window18
+    2300020: corner:window19
+    2300022: corner:window20
+    2300024: corner:window21
+    2300026: corner:window22
+    2300028: corner:window23
+    2300030: corner:window24
+    2300032: cornerBuilding
+    2300034: cornerBuilding 1
+    2300036: cornerBuilding 2
+    2300038: cornerBuilding1
+    2300040: cornerBuilding1 1
+    2300042: cornerBuilding1 2
+    2300044: cornerBuilding2
+    2300046: cornerBuilding3
+    2300048: cornerBuilding3 1
+    2300050: cornerBuilding3 2
+    2300052: cornerBuilding4
+    2300054: cornerBuilding5
+    2300056: cornerBuilding5 1
+    2300058: cornerBuilding5 2
+    2300060: cornerBuilding6
+    2300062: cornerBuilding6 1
+    2300064: cornerBuilding6 2
+    2300066: cornerBuilding7
+    2300068: cornerBuilding7 1
+    2300070: pCube10
+    2300072: pCube10 1
+    2300074: pCube10 2
+    2300076: pCube11
+    2300078: pCube12
+    2300080: pCube12 1
+    2300082: pCube12 2
+    2300084: pCube13
+    2300086: pCube14
+    2300088: pCube14 1
+    2300090: pCube14 2
+    2300092: pCube15
+    2300094: pCube16
+    2300096: pCube17
+    2300098: pCube17 1
+    2300100: pCube17 2
+    2300102: pCube18
+    2300104: pCube18 1
+    2300106: pCube18 2
+    2300108: pCube19
+    2300110: pCube19 1
+    2300112: pCube19 2
+    2300114: pCube2
+    2300116: pCube2 1
+    2300118: pCube2 2
+    2300120: pCube20
+    2300122: pCube20 1
+    2300124: pCube20 2
+    2300126: pCube21
+    2300128: pCube21 1
+    2300130: pCube21 2
+    2300132: pCube22
+    2300134: pCube22 1
+    2300136: pCube22 2
+    2300138: pCube23
+    2300140: pCube23 1
+    2300142: pCube23 2
+    2300144: pCube24
+    2300146: pCube24 1
+    2300148: pCube24 2
+    2300150: pCube25
+    2300152: pCube25 1
+    2300154: pCube25 2
+    2300156: pCube26
+    2300158: pCube26 1
+    2300160: pCube26 2
+    2300162: pCube27
+    2300164: pCube27 1
+    2300166: pCube3
+    2300168: pCube4
+    2300170: pCube4 1
+    2300172: pCube4 2
+    2300174: pCube5
+    2300176: pCube6
+    2300178: pCube6 1
+    2300180: pCube6 2
+    2300182: pCube7
+    2300184: pCube8
+    2300186: pCube8 1
+    2300188: pCube8 2
+    2300190: pCube9
+    2300192: soloRoof
+    2300194: soloRoof1
+    2300196: soloRoof2
+    2300198: soloRoof3
+    2300200: soloRoof4
+    2300202: window1
+    2300204: window1 1
+    2300206: window1 2
+    2300208: window100
+    2300210: window100 1
+    2300212: window100 2
+    2300214: window101
+    2300216: window101 1
+    2300218: window101 2
+    2300220: window102
+    2300222: window102 1
+    2300224: window102 2
+    2300226: window103
+    2300228: window103 1
+    2300230: window103 2
+    2300232: window104
+    2300234: window104 1
+    2300236: window104 2
+    2300238: window105
+    2300240: window105 1
+    2300242: window105 2
+    2300244: window106
+    2300246: window106 1
+    2300248: window106 2
+    2300250: window107
+    2300252: window107 1
+    2300254: window107 2
+    2300256: window108
+    2300258: window108 1
+    2300260: window108 2
+    2300262: window109
+    2300264: window109 1
+    2300266: window109 2
+    2300268: window110
+    2300270: window110 1
+    2300272: window110 2
+    2300274: window111
+    2300276: window111 1
+    2300278: window111 2
+    2300280: window112
+    2300282: window112 1
+    2300284: window112 2
+    2300286: window113
+    2300288: window113 1
+    2300290: window113 2
+    2300292: window114
+    2300294: window114 1
+    2300296: window114 2
+    2300298: window115
+    2300300: window115 1
+    2300302: window115 2
+    2300304: window116
+    2300306: window116 1
+    2300308: window116 2
+    2300310: window117
+    2300312: window117 1
+    2300314: window117 2
+    2300316: window118
+    2300318: window118 1
+    2300320: window118 2
+    2300322: window119
+    2300324: window119 1
+    2300326: window119 2
+    2300328: window120
+    2300330: window120 1
+    2300332: window120 2
+    2300334: window121
+    2300336: window121 1
+    2300338: window121 2
+    2300340: window122
+    2300342: window122 1
+    2300344: window122 2
+    2300346: window123
+    2300348: window123 1
+    2300350: window123 2
+    2300352: window124
+    2300354: window124 1
+    2300356: window124 2
+    2300358: window125
+    2300360: window125 1
+    2300362: window125 2
+    2300364: window126
+    2300366: window126 1
+    2300368: window126 2
+    2300370: window127
+    2300372: window127 1
+    2300374: window127 2
+    2300376: window128
+    2300378: window128 1
+    2300380: window128 2
+    2300382: window129
+    2300384: window129 1
+    2300386: window129 2
+    2300388: window130
+    2300390: window130 1
+    2300392: window130 2
+    2300394: window131
+    2300396: window131 1
+    2300398: window131 2
+    2300400: window132
+    2300402: window132 1
+    2300404: window132 2
+    2300406: window133
+    2300408: window133 1
+    2300410: window134
+    2300412: window134 1
+    2300414: window135
+    2300416: window135 1
+    2300418: window136
+    2300420: window136 1
+    2300422: window137
+    2300424: window137 1
+    2300426: window138
+    2300428: window138 1
+    2300430: window139
+    2300432: window139 1
+    2300434: window14
+    2300436: window14 1
+    2300438: window14 2
+    2300440: window140
+    2300442: window140 1
+    2300444: window141
+    2300446: window141 1
+    2300448: window142
+    2300450: window142 1
+    2300452: window143
+    2300454: window143 1
+    2300456: window144
+    2300458: window144 1
+    2300460: window15
+    2300462: window15 1
+    2300464: window15 2
+    2300466: window16
+    2300468: window16 1
+    2300470: window16 2
+    2300472: window17
+    2300474: window17 1
+    2300476: window17 2
+    2300478: window18
+    2300480: window18 1
+    2300482: window18 2
+    2300484: window19
+    2300486: window19 1
+    2300488: window19 2
+    2300490: window20
+    2300492: window20 1
+    2300494: window20 2
+    2300496: window21
+    2300498: window21 1
+    2300500: window21 2
+    2300502: window22
+    2300504: window22 1
+    2300506: window22 2
+    2300508: window23
+    2300510: window23 1
+    2300512: window23 2
+    2300514: window24
+    2300516: window24 1
+    2300518: window24 2
+    2300520: window25
+    2300522: window25 1
+    2300524: window25 2
+    2300526: window26
+    2300528: window26 1
+    2300530: window26 2
+    2300532: window27
+    2300534: window27 1
+    2300536: window27 2
+    2300538: window28
+    2300540: window28 1
+    2300542: window28 2
+    2300544: window29
+    2300546: window29 1
+    2300548: window29 2
+    2300550: window30
+    2300552: window30 1
+    2300554: window30 2
+    2300556: window31
+    2300558: window31 1
+    2300560: window31 2
+    2300562: window32
+    2300564: window32 1
+    2300566: window32 2
+    2300568: window33
+    2300570: window33 1
+    2300572: window33 2
+    2300574: window34
+    2300576: window34 1
+    2300578: window34 2
+    2300580: window35
+    2300582: window35 1
+    2300584: window35 2
+    2300586: window36
+    2300588: window36 1
+    2300590: window36 2
+    2300592: window37
+    2300594: window37 1
+    2300596: window37 2
+    2300598: window38
+    2300600: window38 1
+    2300602: window38 2
+    2300604: window39
+    2300606: window39 1
+    2300608: window39 2
+    2300610: window40
+    2300612: window40 1
+    2300614: window40 2
+    2300616: window41
+    2300618: window41 1
+    2300620: window41 2
+    2300622: window42
+    2300624: window42 1
+    2300626: window42 2
+    2300628: window43
+    2300630: window43 1
+    2300632: window43 2
+    2300634: window44
+    2300636: window44 1
+    2300638: window44 2
+    2300640: window45
+    2300642: window45 1
+    2300644: window45 2
+    2300646: window46
+    2300648: window46 1
+    2300650: window46 2
+    2300652: window47
+    2300654: window47 1
+    2300656: window47 2
+    2300658: window48
+    2300660: window48 1
+    2300662: window48 2
+    2300664: window49
+    2300666: window49 1
+    2300668: window49 2
+    2300670: window50
+    2300672: window50 1
+    2300674: window50 2
+    2300676: window51
+    2300678: window51 1
+    2300680: window51 2
+    2300682: window52
+    2300684: window52 1
+    2300686: window52 2
+    2300688: window53
+    2300690: window53 1
+    2300692: window53 2
+    2300694: window54
+    2300696: window54 1
+    2300698: window54 2
+    2300700: window55
+    2300702: window55 1
+    2300704: window55 2
+    2300706: window56
+    2300708: window56 1
+    2300710: window56 2
+    2300712: window57
+    2300714: window57 1
+    2300716: window57 2
+    2300718: window58
+    2300720: window58 1
+    2300722: window58 2
+    2300724: window59
+    2300726: window59 1
+    2300728: window59 2
+    2300730: window60
+    2300732: window60 1
+    2300734: window60 2
+    2300736: window61
+    2300738: window61 1
+    2300740: window61 2
+    2300742: window62
+    2300744: window62 1
+    2300746: window62 2
+    2300748: window63
+    2300750: window63 1
+    2300752: window63 2
+    2300754: window64
+    2300756: window64 1
+    2300758: window64 2
+    2300760: window65
+    2300762: window65 1
+    2300764: window65 2
+    2300766: window66
+    2300768: window66 1
+    2300770: window66 2
+    2300772: window67
+    2300774: window67 1
+    2300776: window67 2
+    2300778: window68
+    2300780: window68 1
+    2300782: window68 2
+    2300784: window69
+    2300786: window69 1
+    2300788: window69 2
+    2300790: window70
+    2300792: window70 1
+    2300794: window70 2
+    2300796: window71
+    2300798: window71 1
+    2300800: window71 2
+    2300802: window72
+    2300804: window72 1
+    2300806: window72 2
+    2300808: window73
+    2300810: window73 1
+    2300812: window73 2
+    2300814: window74
+    2300816: window74 1
+    2300818: window74 2
+    2300820: window75
+    2300822: window75 1
+    2300824: window75 2
+    2300826: window76
+    2300828: window76 1
+    2300830: window76 2
+    2300832: window77
+    2300834: window77 1
+    2300836: window77 2
+    2300838: window78
+    2300840: window78 1
+    2300842: window78 2
+    2300844: window79
+    2300846: window79 1
+    2300848: window79 2
+    2300850: window80
+    2300852: window80 1
+    2300854: window80 2
+    2300856: window81
+    2300858: window81 1
+    2300860: window81 2
+    2300862: window82
+    2300864: window82 1
+    2300866: window82 2
+    2300868: window83
+    2300870: window83 1
+    2300872: window83 2
+    2300874: window84
+    2300876: window84 1
+    2300878: window84 2
+    2300880: window85
+    2300882: window85 1
+    2300884: window85 2
+    2300886: window86
+    2300888: window86 1
+    2300890: window86 2
+    2300892: window87
+    2300894: window87 1
+    2300896: window87 2
+    2300898: window88
+    2300900: window88 1
+    2300902: window88 2
+    2300904: window89
+    2300906: window89 1
+    2300908: window89 2
+    2300910: window90
+    2300912: window90 1
+    2300914: window90 2
+    2300916: window91
+    2300918: window91 1
+    2300920: window91 2
+    2300922: window92
+    2300924: window92 1
+    2300926: window92 2
+    2300928: window93
+    2300930: window93 1
+    2300932: window93 2
+    2300934: window94
+    2300936: window94 1
+    2300938: window94 2
+    2300940: window95
+    2300942: window95 1
+    2300944: window95 2
+    2300946: window96
+    2300948: window96 1
+    2300950: window96 2
+    2300952: window97
+    2300954: window97 1
+    2300956: window97 2
+    2300958: window98
+    2300960: window98 1
+    2300962: window98 2
+    2300964: window99
+    2300966: window99 1
+    2300968: window99 2
+    3300000: corner:cornerBuilding
+    3300002: corner:cornerBuilding2
+    3300004: corner:pCube2
+    3300006: corner:pCube3
+    3300008: corner:window1
+    3300010: corner:window14
+    3300012: corner:window15
+    3300014: corner:window16
+    3300016: corner:window17
+    3300018: corner:window18
+    3300020: corner:window19
+    3300022: corner:window20
+    3300024: corner:window21
+    3300026: corner:window22
+    3300028: corner:window23
+    3300030: corner:window24
+    3300032: cornerBuilding
+    3300034: cornerBuilding 1
+    3300036: cornerBuilding 2
+    3300038: cornerBuilding1
+    3300040: cornerBuilding1 1
+    3300042: cornerBuilding1 2
+    3300044: cornerBuilding2
+    3300046: cornerBuilding3
+    3300048: cornerBuilding3 1
+    3300050: cornerBuilding3 2
+    3300052: cornerBuilding4
+    3300054: cornerBuilding5
+    3300056: cornerBuilding5 1
+    3300058: cornerBuilding5 2
+    3300060: cornerBuilding6
+    3300062: cornerBuilding6 1
+    3300064: cornerBuilding6 2
+    3300066: cornerBuilding7
+    3300068: cornerBuilding7 1
+    3300070: pCube10
+    3300072: pCube10 1
+    3300074: pCube10 2
+    3300076: pCube11
+    3300078: pCube12
+    3300080: pCube12 1
+    3300082: pCube12 2
+    3300084: pCube13
+    3300086: pCube14
+    3300088: pCube14 1
+    3300090: pCube14 2
+    3300092: pCube15
+    3300094: pCube16
+    3300096: pCube17
+    3300098: pCube17 1
+    3300100: pCube17 2
+    3300102: pCube18
+    3300104: pCube18 1
+    3300106: pCube18 2
+    3300108: pCube19
+    3300110: pCube19 1
+    3300112: pCube19 2
+    3300114: pCube2
+    3300116: pCube2 1
+    3300118: pCube2 2
+    3300120: pCube20
+    3300122: pCube20 1
+    3300124: pCube20 2
+    3300126: pCube21
+    3300128: pCube21 1
+    3300130: pCube21 2
+    3300132: pCube22
+    3300134: pCube22 1
+    3300136: pCube22 2
+    3300138: pCube23
+    3300140: pCube23 1
+    3300142: pCube23 2
+    3300144: pCube24
+    3300146: pCube24 1
+    3300148: pCube24 2
+    3300150: pCube25
+    3300152: pCube25 1
+    3300154: pCube25 2
+    3300156: pCube26
+    3300158: pCube26 1
+    3300160: pCube26 2
+    3300162: pCube27
+    3300164: pCube27 1
+    3300166: pCube3
+    3300168: pCube4
+    3300170: pCube4 1
+    3300172: pCube4 2
+    3300174: pCube5
+    3300176: pCube6
+    3300178: pCube6 1
+    3300180: pCube6 2
+    3300182: pCube7
+    3300184: pCube8
+    3300186: pCube8 1
+    3300188: pCube8 2
+    3300190: pCube9
+    3300192: soloRoof
+    3300194: soloRoof1
+    3300196: soloRoof2
+    3300198: soloRoof3
+    3300200: soloRoof4
+    3300202: window1
+    3300204: window1 1
+    3300206: window1 2
+    3300208: window100
+    3300210: window100 1
+    3300212: window100 2
+    3300214: window101
+    3300216: window101 1
+    3300218: window101 2
+    3300220: window102
+    3300222: window102 1
+    3300224: window102 2
+    3300226: window103
+    3300228: window103 1
+    3300230: window103 2
+    3300232: window104
+    3300234: window104 1
+    3300236: window104 2
+    3300238: window105
+    3300240: window105 1
+    3300242: window105 2
+    3300244: window106
+    3300246: window106 1
+    3300248: window106 2
+    3300250: window107
+    3300252: window107 1
+    3300254: window107 2
+    3300256: window108
+    3300258: window108 1
+    3300260: window108 2
+    3300262: window109
+    3300264: window109 1
+    3300266: window109 2
+    3300268: window110
+    3300270: window110 1
+    3300272: window110 2
+    3300274: window111
+    3300276: window111 1
+    3300278: window111 2
+    3300280: window112
+    3300282: window112 1
+    3300284: window112 2
+    3300286: window113
+    3300288: window113 1
+    3300290: window113 2
+    3300292: window114
+    3300294: window114 1
+    3300296: window114 2
+    3300298: window115
+    3300300: window115 1
+    3300302: window115 2
+    3300304: window116
+    3300306: window116 1
+    3300308: window116 2
+    3300310: window117
+    3300312: window117 1
+    3300314: window117 2
+    3300316: window118
+    3300318: window118 1
+    3300320: window118 2
+    3300322: window119
+    3300324: window119 1
+    3300326: window119 2
+    3300328: window120
+    3300330: window120 1
+    3300332: window120 2
+    3300334: window121
+    3300336: window121 1
+    3300338: window121 2
+    3300340: window122
+    3300342: window122 1
+    3300344: window122 2
+    3300346: window123
+    3300348: window123 1
+    3300350: window123 2
+    3300352: window124
+    3300354: window124 1
+    3300356: window124 2
+    3300358: window125
+    3300360: window125 1
+    3300362: window125 2
+    3300364: window126
+    3300366: window126 1
+    3300368: window126 2
+    3300370: window127
+    3300372: window127 1
+    3300374: window127 2
+    3300376: window128
+    3300378: window128 1
+    3300380: window128 2
+    3300382: window129
+    3300384: window129 1
+    3300386: window129 2
+    3300388: window130
+    3300390: window130 1
+    3300392: window130 2
+    3300394: window131
+    3300396: window131 1
+    3300398: window131 2
+    3300400: window132
+    3300402: window132 1
+    3300404: window132 2
+    3300406: window133
+    3300408: window133 1
+    3300410: window134
+    3300412: window134 1
+    3300414: window135
+    3300416: window135 1
+    3300418: window136
+    3300420: window136 1
+    3300422: window137
+    3300424: window137 1
+    3300426: window138
+    3300428: window138 1
+    3300430: window139
+    3300432: window139 1
+    3300434: window14
+    3300436: window14 1
+    3300438: window14 2
+    3300440: window140
+    3300442: window140 1
+    3300444: window141
+    3300446: window141 1
+    3300448: window142
+    3300450: window142 1
+    3300452: window143
+    3300454: window143 1
+    3300456: window144
+    3300458: window144 1
+    3300460: window15
+    3300462: window15 1
+    3300464: window15 2
+    3300466: window16
+    3300468: window16 1
+    3300470: window16 2
+    3300472: window17
+    3300474: window17 1
+    3300476: window17 2
+    3300478: window18
+    3300480: window18 1
+    3300482: window18 2
+    3300484: window19
+    3300486: window19 1
+    3300488: window19 2
+    3300490: window20
+    3300492: window20 1
+    3300494: window20 2
+    3300496: window21
+    3300498: window21 1
+    3300500: window21 2
+    3300502: window22
+    3300504: window22 1
+    3300506: window22 2
+    3300508: window23
+    3300510: window23 1
+    3300512: window23 2
+    3300514: window24
+    3300516: window24 1
+    3300518: window24 2
+    3300520: window25
+    3300522: window25 1
+    3300524: window25 2
+    3300526: window26
+    3300528: window26 1
+    3300530: window26 2
+    3300532: window27
+    3300534: window27 1
+    3300536: window27 2
+    3300538: window28
+    3300540: window28 1
+    3300542: window28 2
+    3300544: window29
+    3300546: window29 1
+    3300548: window29 2
+    3300550: window30
+    3300552: window30 1
+    3300554: window30 2
+    3300556: window31
+    3300558: window31 1
+    3300560: window31 2
+    3300562: window32
+    3300564: window32 1
+    3300566: window32 2
+    3300568: window33
+    3300570: window33 1
+    3300572: window33 2
+    3300574: window34
+    3300576: window34 1
+    3300578: window34 2
+    3300580: window35
+    3300582: window35 1
+    3300584: window35 2
+    3300586: window36
+    3300588: window36 1
+    3300590: window36 2
+    3300592: window37
+    3300594: window37 1
+    3300596: window37 2
+    3300598: window38
+    3300600: window38 1
+    3300602: window38 2
+    3300604: window39
+    3300606: window39 1
+    3300608: window39 2
+    3300610: window40
+    3300612: window40 1
+    3300614: window40 2
+    3300616: window41
+    3300618: window41 1
+    3300620: window41 2
+    3300622: window42
+    3300624: window42 1
+    3300626: window42 2
+    3300628: window43
+    3300630: window43 1
+    3300632: window43 2
+    3300634: window44
+    3300636: window44 1
+    3300638: window44 2
+    3300640: window45
+    3300642: window45 1
+    3300644: window45 2
+    3300646: window46
+    3300648: window46 1
+    3300650: window46 2
+    3300652: window47
+    3300654: window47 1
+    3300656: window47 2
+    3300658: window48
+    3300660: window48 1
+    3300662: window48 2
+    3300664: window49
+    3300666: window49 1
+    3300668: window49 2
+    3300670: window50
+    3300672: window50 1
+    3300674: window50 2
+    3300676: window51
+    3300678: window51 1
+    3300680: window51 2
+    3300682: window52
+    3300684: window52 1
+    3300686: window52 2
+    3300688: window53
+    3300690: window53 1
+    3300692: window53 2
+    3300694: window54
+    3300696: window54 1
+    3300698: window54 2
+    3300700: window55
+    3300702: window55 1
+    3300704: window55 2
+    3300706: window56
+    3300708: window56 1
+    3300710: window56 2
+    3300712: window57
+    3300714: window57 1
+    3300716: window57 2
+    3300718: window58
+    3300720: window58 1
+    3300722: window58 2
+    3300724: window59
+    3300726: window59 1
+    3300728: window59 2
+    3300730: window60
+    3300732: window60 1
+    3300734: window60 2
+    3300736: window61
+    3300738: window61 1
+    3300740: window61 2
+    3300742: window62
+    3300744: window62 1
+    3300746: window62 2
+    3300748: window63
+    3300750: window63 1
+    3300752: window63 2
+    3300754: window64
+    3300756: window64 1
+    3300758: window64 2
+    3300760: window65
+    3300762: window65 1
+    3300764: window65 2
+    3300766: window66
+    3300768: window66 1
+    3300770: window66 2
+    3300772: window67
+    3300774: window67 1
+    3300776: window67 2
+    3300778: window68
+    3300780: window68 1
+    3300782: window68 2
+    3300784: window69
+    3300786: window69 1
+    3300788: window69 2
+    3300790: window70
+    3300792: window70 1
+    3300794: window70 2
+    3300796: window71
+    3300798: window71 1
+    3300800: window71 2
+    3300802: window72
+    3300804: window72 1
+    3300806: window72 2
+    3300808: window73
+    3300810: window73 1
+    3300812: window73 2
+    3300814: window74
+    3300816: window74 1
+    3300818: window74 2
+    3300820: window75
+    3300822: window75 1
+    3300824: window75 2
+    3300826: window76
+    3300828: window76 1
+    3300830: window76 2
+    3300832: window77
+    3300834: window77 1
+    3300836: window77 2
+    3300838: window78
+    3300840: window78 1
+    3300842: window78 2
+    3300844: window79
+    3300846: window79 1
+    3300848: window79 2
+    3300850: window80
+    3300852: window80 1
+    3300854: window80 2
+    3300856: window81
+    3300858: window81 1
+    3300860: window81 2
+    3300862: window82
+    3300864: window82 1
+    3300866: window82 2
+    3300868: window83
+    3300870: window83 1
+    3300872: window83 2
+    3300874: window84
+    3300876: window84 1
+    3300878: window84 2
+    3300880: window85
+    3300882: window85 1
+    3300884: window85 2
+    3300886: window86
+    3300888: window86 1
+    3300890: window86 2
+    3300892: window87
+    3300894: window87 1
+    3300896: window87 2
+    3300898: window88
+    3300900: window88 1
+    3300902: window88 2
+    3300904: window89
+    3300906: window89 1
+    3300908: window89 2
+    3300910: window90
+    3300912: window90 1
+    3300914: window90 2
+    3300916: window91
+    3300918: window91 1
+    3300920: window91 2
+    3300922: window92
+    3300924: window92 1
+    3300926: window92 2
+    3300928: window93
+    3300930: window93 1
+    3300932: window93 2
+    3300934: window94
+    3300936: window94 1
+    3300938: window94 2
+    3300940: window95
+    3300942: window95 1
+    3300944: window95 2
+    3300946: window96
+    3300948: window96 1
+    3300950: window96 2
+    3300952: window97
+    3300954: window97 1
+    3300956: window97 2
+    3300958: window98
+    3300960: window98 1
+    3300962: window98 2
+    3300964: window99
+    3300966: window99 1
+    3300968: window99 2
+    4300000: soloRoof
+    4300002: corner:pCube3
+    4300004: pCube3
+    4300006: pCube5
+    4300008: soloRoof1
+    4300010: soloRoof2
+    4300012: pCube7
+    4300014: pCube9
+    4300016: pCube11
+    4300018: pCube13
+    4300020: soloRoof3
+    4300022: soloRoof4
+    4300024: corner:cornerBuilding2
+    4300026: cornerBuilding2
+    4300028: pCube15
+    4300030: cornerBuilding4
+    4300032: pCube16
+    4300034: window25
+    4300036: window24
+    4300038: pCube2
+    4300040: window26
+    4300042: window27
+    4300044: window28
+    4300046: window29
+    4300048: window30
+    4300050: window31
+    4300052: pCube4
+    4300054: window32
+    4300056: window33
+    4300058: window34
+    4300060: pCube6
+    4300062: window35
+    4300064: window36
+    4300066: window37
+    4300068: window38
+    4300070: pCube8
+    4300072: window39
+    4300074: window40
+    4300076: window41
+    4300078: window42
+    4300080: pCube10
+    4300082: window43
+    4300084: window44
+    4300086: window45
+    4300088: window46
+    4300090: pCube12
+    4300092: window47
+    4300094: window48
+    4300096: window49
+    4300098: window50
+    4300100: corner:window1
+    4300102: corner:window24
+    4300104: corner:window23
+    4300106: corner:window22
+    4300108: corner:cornerBuilding
+    4300110: window15
+    4300112: window14
+    4300114: window16
+    4300116: window17
+    4300118: window1
+    4300120: window51
+    4300122: window23
+    4300124: window22
+    4300126: cornerBuilding
+    4300128: window52
+    4300130: window53
+    4300132: window54
+    4300134: window55
+    4300136: window56
+    4300138: window57
+    4300140: pCube14
+    4300142: window58
+    4300144: window59
+    4300146: window60
+    4300148: window61
+    4300150: window62
+    4300152: window63
+    4300154: window64
+    4300156: window65
+    4300158: cornerBuilding3
+    4300160: pCube17
+    4300162: window66
+    4300164: corner:pCube2
+    4300166: corner:window18
+    4300168: corner:window19
+    4300170: corner:window20
+    4300172: corner:window21
+    4300174: window69
+    4300176: window70
+    4300178: pCube18
+    4300180: window71
+    4300182: window72
+    4300184: window73
+    4300186: window74
+    4300188: window75
+    4300190: window76
+    4300192: pCube19
+    4300194: window77
+    4300196: window78
+    4300198: window79
+    4300200: pCube20
+    4300202: window80
+    4300204: window81
+    4300206: window82
+    4300208: window83
+    4300210: pCube21
+    4300212: window84
+    4300214: window85
+    4300216: window86
+    4300218: window87
+    4300220: pCube22
+    4300222: window88
+    4300224: window89
+    4300226: window90
+    4300228: window91
+    4300230: pCube23
+    4300232: window92
+    4300234: window93
+    4300236: window94
+    4300238: window95
+    4300240: window96
+    4300242: window97
+    4300244: window98
+    4300246: window99
+    4300248: cornerBuilding5
+    4300250: window100
+    4300252: window101
+    4300254: window102
+    4300256: window103
+    4300258: window104
+    4300260: window105
+    4300262: window106
+    4300264: window107
+    4300266: cornerBuilding1
+    4300268: window108
+    4300270: window109
+    4300272: window110
+    4300274: window111
+    4300276: window112
+    4300278: window113
+    4300280: pCube24
+    4300282: window114
+    4300284: window115
+    4300286: window116
+    4300288: window117
+    4300290: window118
+    4300292: window67
+    4300294: window68
+    4300296: window119
+    4300298: cornerBuilding6
+    4300300: pCube25
+    4300302: window120
+    4300304: pCube26
+    4300306: window18
+    4300308: window21
+    4300310: window20
+    4300312: window19
+    4300314: corner:window15
+    4300316: corner:window14
+    4300318: corner:window16
+    4300320: corner:window17
+    4300322: window123
+    4300324: window124
+    4300326: window125
+    4300328: window126
+    4300330: window127
+    4300332: window128
+    4300334: window129
+    4300336: window130
+    4300338: window131
+    4300340: window132
+    4300342: window121
+    4300344: window122
+    4300346: window25
+    4300348: window24
+    4300350: pCube2
+    4300352: window26
+    4300354: window27
+    4300356: window28
+    4300358: window29
+    4300360: window30
+    4300362: window31
+    4300364: pCube4
+    4300366: window32
+    4300368: window33
+    4300370: window34
+    4300372: pCube6
+    4300374: window35
+    4300376: window36
+    4300378: window37
+    4300380: window38
+    4300382: pCube8
+    4300384: window39
+    4300386: window40
+    4300388: window41
+    4300390: window42
+    4300392: pCube10
+    4300394: window43
+    4300396: window44
+    4300398: window45
+    4300400: window46
+    4300402: pCube12
+    4300404: window47
+    4300406: window48
+    4300408: window49
+    4300410: window50
+    4300412: window1
+    4300414: window51
+    4300416: window23
+    4300418: window22
+    4300420: cornerBuilding
+    4300422: window15
+    4300424: window14
+    4300426: window16
+    4300428: window17
+    4300430: window52
+    4300432: window53
+    4300434: window54
+    4300436: window55
+    4300438: cornerBuilding1
+    4300440: window56
+    4300442: window57
+    4300444: window58
+    4300446: window59
+    4300448: window60
+    4300450: window61
+    4300452: pCube14
+    4300454: window62
+    4300456: window63
+    4300458: window64
+    4300460: window65
+    4300462: window66
+    4300464: window67
+    4300466: window68
+    4300468: window69
+    4300470: cornerBuilding3
+    4300472: pCube17
+    4300474: window70
+    4300476: pCube18
+    4300478: window18
+    4300480: window19
+    4300482: window20
+    4300484: window21
+    4300486: window71
+    4300488: window72
+    4300490: pCube19
+    4300492: window73
+    4300494: window74
+    4300496: window75
+    4300498: window76
+    4300500: window77
+    4300502: window78
+    4300504: pCube20
+    4300506: window79
+    4300508: window80
+    4300510: window81
+    4300512: pCube21
+    4300514: window82
+    4300516: window83
+    4300518: window84
+    4300520: window85
+    4300522: pCube22
+    4300524: window86
+    4300526: window87
+    4300528: window88
+    4300530: window89
+    4300532: pCube23
+    4300534: window90
+    4300536: window91
+    4300538: window92
+    4300540: window93
+    4300542: pCube24
+    4300544: window94
+    4300546: window95
+    4300548: window96
+    4300550: window97
+    4300552: window98
+    4300554: window99
+    4300556: window100
+    4300558: window101
+    4300560: cornerBuilding5
+    4300562: window102
+    4300564: window103
+    4300566: window104
+    4300568: window105
+    4300570: window106
+    4300572: window107
+    4300574: window108
+    4300576: window109
+    4300578: cornerBuilding6
+    4300580: window110
+    4300582: window111
+    4300584: window112
+    4300586: window113
+    4300588: window114
+    4300590: window115
+    4300592: pCube25
+    4300594: window116
+    4300596: window117
+    4300598: window118
+    4300600: window119
+    4300602: window120
+    4300604: window121
+    4300606: window122
+    4300608: window123
+    4300610: cornerBuilding7
+    4300612: pCube26
+    4300614: window124
+    4300616: pCube27
+    4300618: window125
+    4300620: window126
+    4300622: window127
+    4300624: window128
+    4300626: window129
+    4300628: window130
+    4300630: window131
+    4300632: window132
+    4300634: window133
+    4300636: window134
+    4300638: window135
+    4300640: window136
+    4300642: window137
+    4300644: window138
+    4300646: window139
+    4300648: window140
+    4300650: window141
+    4300652: window142
+    4300654: window143
+    4300656: window144
+    4300658: window25
+    4300660: window24
+    4300662: pCube2
+    4300664: window26
+    4300666: window27
+    4300668: window28
+    4300670: window29
+    4300672: window30
+    4300674: window31
+    4300676: pCube4
+    4300678: window32
+    4300680: window33
+    4300682: window34
+    4300684: pCube6
+    4300686: window35
+    4300688: window36
+    4300690: window37
+    4300692: window38
+    4300694: pCube8
+    4300696: window39
+    4300698: window40
+    4300700: window41
+    4300702: window42
+    4300704: pCube10
+    4300706: window43
+    4300708: window44
+    4300710: window45
+    4300712: window46
+    4300714: pCube12
+    4300716: window47
+    4300718: window48
+    4300720: window49
+    4300722: window50
+    4300724: window1
+    4300726: window51
+    4300728: window23
+    4300730: window22
+    4300732: cornerBuilding
+    4300734: window15
+    4300736: window14
+    4300738: window16
+    4300740: window17
+    4300742: window52
+    4300744: window53
+    4300746: window54
+    4300748: window55
+    4300750: cornerBuilding1
+    4300752: window56
+    4300754: window57
+    4300756: window58
+    4300758: window59
+    4300760: window60
+    4300762: window61
+    4300764: pCube14
+    4300766: window62
+    4300768: window63
+    4300770: window64
+    4300772: window65
+    4300774: window66
+    4300776: window67
+    4300778: window68
+    4300780: window69
+    4300782: cornerBuilding3
+    4300784: pCube17
+    4300786: window70
+    4300788: pCube18
+    4300790: window18
+    4300792: window19
+    4300794: window20
+    4300796: window21
+    4300798: window71
+    4300800: window72
+    4300802: pCube19
+    4300804: window73
+    4300806: window74
+    4300808: window75
+    4300810: window76
+    4300812: window77
+    4300814: window78
+    4300816: pCube20
+    4300818: window79
+    4300820: window80
+    4300822: window81
+    4300824: pCube21
+    4300826: window82
+    4300828: window83
+    4300830: window84
+    4300832: window85
+    4300834: pCube22
+    4300836: window86
+    4300838: window87
+    4300840: window88
+    4300842: window89
+    4300844: pCube23
+    4300846: window90
+    4300848: window91
+    4300850: window92
+    4300852: window93
+    4300854: pCube24
+    4300856: window94
+    4300858: window95
+    4300860: window96
+    4300862: window97
+    4300864: window98
+    4300866: window99
+    4300868: window100
+    4300870: window101
+    4300872: cornerBuilding5
+    4300874: window102
+    4300876: window103
+    4300878: window104
+    4300880: window105
+    4300882: window106
+    4300884: window107
+    4300886: window108
+    4300888: window109
+    4300890: cornerBuilding6
+    4300892: window110
+    4300894: window111
+    4300896: window112
+    4300898: window113
+    4300900: window114
+    4300902: window115
+    4300904: pCube25
+    4300906: window116
+    4300908: window117
+    4300910: window118
+    4300912: window119
+    4300914: window120
+    4300916: window121
+    4300918: window122
+    4300920: window123
+    4300922: cornerBuilding7
+    4300924: pCube26
+    4300926: window124
+    4300928: pCube27
+    4300930: window125
+    4300932: window126
+    4300934: window127
+    4300936: window128
+    4300938: window129
+    4300940: window130
+    4300942: window131
+    4300944: window132
+    4300946: window133
+    4300948: window134
+    4300950: window135
+    4300952: window136
+    4300954: window137
+    4300956: window138
+    4300958: window139
+    4300960: window140
+    4300962: window141
+    4300964: window142
+    4300966: window143
+    4300968: window144
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
