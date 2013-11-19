@@ -18,4 +18,10 @@ public class Crosshair : MonoBehaviour {
     	
     	GUI.DrawTexture(new Rect(xMin+30, yMin+10, crosshairImage.width/2, crosshairImage.height/2), crosshairImage);
 	}
+	
+	public void setImage(Texture2D newimage)
+	{
+		crosshairImage = newimage;
+		OnGUI();
+	}
 }

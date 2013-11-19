@@ -9,6 +9,10 @@ using System.Collections;
 public class targetting : MonoBehaviour 
 {
 	public float targetingDistance;
+	public Texture2D crosshairGreen;
+	public Texture2D crosshairRed;
+	public GameObject Crosshair;
+	
 	void Start()
 	{
 		
@@ -28,12 +32,17 @@ public class targetting : MonoBehaviour
 		{
 			if(hit.collider.tag == "enemy")
 			{
-				
+				Crosshair.transform.gameObject.GetComponent<Crosshair>().setImage(crosshairRed);
 				if(Input.GetKeyDown(KeyCode.LeftShift))
 				{
 					hit.transform.gameObject.GetComponent<EnemyAI>().setTargeted(true);
 				}	
 			}
+			
+		}
+		else
+		{
+				Crosshair.transform.gameObject.GetComponent<Crosshair>().setImage(crosshairGreen);	
 		}
 		
 	}
